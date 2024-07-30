@@ -26,7 +26,7 @@ void Game::play() {
         rooms[currentRoom]->display(tasksCompleted, showFullDescription);
         cout << "Choose an action (1, 2";
         if (currentRoom == 0 || currentRoom == 1 || currentRoom == 2 || currentRoom == 3 || currentRoom == 4) {
-            if (currentRoom == 0 || currentRoom == 1 || currentRoom == 2 || currentRoom == 3 || currentRoom == 4) {
+            if (!tasksCompleted[currentRoom][2]) {
                 cout << " or 3";
             }
 

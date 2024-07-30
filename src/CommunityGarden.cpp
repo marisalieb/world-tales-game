@@ -1,7 +1,7 @@
 
 #include "../include/CommunityGarden.h"
 
-const string CommunityGarden::DESCRIPTION = "\nYou are in London, England, in a lush community garden surrounded by urban sprawl, featuring various plants and flowers.There are garden beds, compost bins and a small tool shed.";
+const string CommunityGarden::DESCRIPTION = "\nYou are in London, England, in a lush community garden surrounded by urban sprawl, featuring various plants and flowers.\nThere are garden beds, compost bins and a small tool shed.";
 const string CommunityGarden::TASK1 = "Enter an ivy-covered archway revealing a tunnel with echoes.";
 const string CommunityGarden::TASK2 = "Go through a small iron gate leading to a cobblestone path with cooking scents.";
 const string CommunityGarden::TASK3 = "Assist in building a tool shed and get a plant seedling with conservation significance.";

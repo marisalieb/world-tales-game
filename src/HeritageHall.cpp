@@ -2,7 +2,7 @@
 #include "../include/HeritageHall.h"
 
 const string HeritageHall::DESCRIPTION = "\nYou are in a spacious, elegantly decorated hall in a beautifully restored historical building.\nThe room features display tables and walls showcasing cultural artefacts.\nAround the building there are various gardens.";
-const string HeritageHall::TASK1 = "Go through an old door at the end of the hall. You can hear machinery sounds on the other side of the it.";
+const string HeritageHall::TASK1 = "Go through an old door at the end of the hall. You can hear machinery sounds on the other side of it.";
 const string HeritageHall::TASK2 = "Go into the garden and follow the smell of fresh herbs.";
 const string HeritageHall::TASK3 = "Place all collected items (Maori carving, unity cloth patch, handwoven bracelet, plant seedling, recipe scroll) in the central showcase.";
 

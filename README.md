@@ -30,4 +30,4 @@ This text-based game adapts that concept with added tasks and cultural locations
 
 
 ### Example
-![screenshot.png](screenshot.png)
+![Screenshot1.png](Screenshot1.png)
